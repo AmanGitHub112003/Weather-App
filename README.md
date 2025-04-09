@@ -7,6 +7,8 @@ This is a simple and responsive web application that displays real-time weather 
 ## 📸 Preview
 
 ![Weather App Screenshot](https://github.com/AmanGitHub112003/Weather-App/blob/main/Screenshot%20(4755).png)
+
+
 ![Weather App Screenshot](https://github.com/AmanGitHub112003/Weather-App/blob/main/Screenshot%20(4756).png)
       
 ## 🚀 Features
